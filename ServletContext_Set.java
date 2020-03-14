@@ -3,7 +3,7 @@ import java.io.*;
 import javax.servlet.*;
 import javax.servlet.http.*;
 
-public class ServletContext_Set extends HttpServlet {
+public class ServletContext_Set extends ---HttpServlet {
 
 
 	public void doGet(HttpServletRequest req, HttpServletResponse res)
