@@ -6,7 +6,8 @@ import javax.servlet.http.*;
 public class ServletContext_Set extends HttpServlet {
 
 
-	public void doGet(HttpServletRequest req, HttpServletResponse res)
+	public void doGet(HttpServ
+	letRequest req, HttpServletResponse res)
 			throws ServletException, IOException {
 
 		res.setContentType("text/html; charset=Big5");
